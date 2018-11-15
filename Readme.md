@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Q248298/Form1.cs) (VB: [Form1.vb](./VB/Q248298/Form1.vb))
+<!-- default file list end -->
 # How to display detail data in a separate GridControl when the master grid is in Server Mode
 
 
